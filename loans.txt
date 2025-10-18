@@ -1,0 +1,4 @@
+borrower=Alice
+05 November 2025; Clean Code
+10 November 2025; Effective Java
+11 November 2025; Design Patterns
