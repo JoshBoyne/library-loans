@@ -2,3 +2,8 @@ borrower=Alice
 05 November 2025; Clean Code
 10 November 2025; Effective Java
 11 November 2025; Design Patterns
+
+borrower=John
+05 November 2025; Lord of the Rings
+10 November 2025; The Hobbit
+The Hunger Games; 11 November 2025
